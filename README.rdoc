@@ -2,7 +2,7 @@
 
 This Rails 3 project is a sample app using the Choco Javascript framework (http://github.com/ahe/choco).
 
-The Choco app leaves in public/javascripts/choco_app
+The Choco app leaves in public/javascripts/choco_appb
 
 == Installation
 
